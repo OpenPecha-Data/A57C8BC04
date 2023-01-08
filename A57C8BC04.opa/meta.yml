@@ -1,0 +1,22 @@
+id: A57C8BC04
+title: Prayer to Mañjuśrī
+type: translation
+pechas:
+- I97359FA7
+- I1C897C57
+- I51B81BC8
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:11:02.683521
+  last_modified_at: 2023-01-04 13:11:02.683526
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I97359FA7/2490: '4630'
+  I1C897C57/9A57: '4630'
+  I51B81BC8/885B: '4630'
